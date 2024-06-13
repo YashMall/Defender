@@ -46,6 +46,9 @@ For any questions or feedback, please open an issue on the repository or contact
 ![author](https://img.shields.io/badge/author-Nirbhay--Kumar-blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nirbhaykrmuj/)
 
+![author](https://img.shields.io/badge/author-Yash--Mall-blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yashmall/)
+
 ---
 
 <p align="center">Stay Safe, Stay Informed! 🌈</p>
